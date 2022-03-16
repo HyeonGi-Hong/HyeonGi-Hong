@@ -1,7 +1,5 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=HyeonGi-Hong&&style=flat-square)  
-  
-
-<br/>  
+    
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />

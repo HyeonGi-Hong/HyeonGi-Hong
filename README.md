@@ -15,3 +15,5 @@ Skills: HTML / CSS / JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonGi-Hong&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/HyeonGi-Hong)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?HyeonGi-Hong=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

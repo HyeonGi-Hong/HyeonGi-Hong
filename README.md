@@ -10,6 +10,6 @@ See you soon after becoming a great developer.👏👏
 Skills: HTML / CSS / JS
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonGi-Hong&theme=apprentice_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonGi-Hong&theme=apprentice%show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/HyeonGi-Hong)  

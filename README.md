@@ -16,4 +16,3 @@ Skills: HTML / CSS / JS
 
 ![Profile views](https://gpvc.arturio.dev/HyeonGi-Hong)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?HyeonGi-Hong=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

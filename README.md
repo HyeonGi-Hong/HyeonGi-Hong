@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is HyeonGi-Hong
 #### Prospective developer studying frontend
-![Prospective developer studying frontend](https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148901163.jpg?t=st=1647452109~exp=1647452709~hmac=993bb9c5e4fe8a656a3f24a2f7f85eec8816e5da97ac0e50b491a6b8f592918f&w=1800)
-
+![Prospective developer studying frontend]
 I still don't have enough skills.😅
 
 But, I am currently studying hard.👍

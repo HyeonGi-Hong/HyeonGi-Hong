@@ -12,6 +12,6 @@ Skills: HTML / CSS / JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonGi-Hong)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonGi-Hong)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonGi-Hong&theme=dapprentice_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/HyeonGi-Hong)  
